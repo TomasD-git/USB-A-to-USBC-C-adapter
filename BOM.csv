@@ -1,0 +1,4 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+PCB,all components are on this,1,15,https://jlcpcb.com,jlcpcb
+ALL components,all components that are on pcb,1,25,https://lcsc.com,lcsc
+,,Total cost,40,,
