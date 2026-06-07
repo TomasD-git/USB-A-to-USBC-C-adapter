@@ -2,6 +2,20 @@
 **Compact USB-A to USB-C adapter, supporting USB 3.1 speeds**
 
 
+<details>
+  <summary>BOM</summary>
+
+
+# BOM
+ 
+| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
+|------|---------|----------|-----------------|------|-------------|
+| PCB | all components are on this | 1 | 15 | [jlcpcb](https://jlcpcb.com) | jlcpcb |
+| ALL components | all components that are on pcb | 1 | 25 | [lcsc](https://lcsc.com) | lcsc |
+| | | **Total cost** | **40** | | |
+
+</details>
+
 
 <img width="745" height="746" alt="image" src="https://github.com/user-attachments/assets/7bf6fc1e-d1ee-4b76-888f-737cb1d31347" />
 <img width="949" height="345" alt="image" src="https://github.com/user-attachments/assets/7cc98751-953f-4646-b91b-eeaaedd6d954" />
