@@ -3,9 +3,10 @@
 
 <details>
 <summary>Features</summary>
--Small
--Very fast
--1 Layer PCBA
+  
+-Small  
+-Very fast  
+-1 Layer PCBA  
   
 </details>
 
