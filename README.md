@@ -1,6 +1,14 @@
 # USB-A-to-USBC-C-adapter
 **Compact USB-A to USB-C adapter, supports USB 3.1 speeds, with stable power**
 
+<details>
+<summary>Features</summary>
+-Small
+-Very fast
+-1 Layer PCBA
+  
+</details>
+
 
 <details>
   <summary>BOM</summary>
